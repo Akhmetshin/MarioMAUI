@@ -320,7 +320,7 @@ namespace MarioMAUI
                 taskSTR.Text = "УЧИ ДИФУРЫ";
                 answerSTR.Text = "!!";
 
-                verSTR.Text = "www.mariomaui.ru";
+                verSTR.Text = "www.mariomaui.com";
                 flagEnd = true;
                 PlayTadadadaaam.Play();
             }
